@@ -44,3 +44,6 @@ group :development, :test do
 end
 
 gem 'gmaps4rails'
+gem 'underscore-rails'
+# gem 'jquery-ui-rails'
+gem 'jquery-ui-themes'
